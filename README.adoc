@@ -1,4 +1,7 @@
-# hello-world-
+= hello world
+
 Erste Übung
+
 hier mache ich meinen zweiten EINTRAG in develop 3
-UND NOCH MEHR
+
+UND NOCH MEHR ...
